@@ -1,3 +1,5 @@
+# App Description
+
 WeatherApp provides the current temperature in Celsius
 
 Please don't hesitate to open an issue or pull request. You can also send me a message on [Twitter](https://twitter.com/KhaoulaKhemiri).
